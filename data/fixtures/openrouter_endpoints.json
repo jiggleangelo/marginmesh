@@ -1,0 +1,1 @@
+{"data":{"endpoints":[{"provider_name":"Fixture Provider","pricing":{"prompt":"0.000001","completion":"0.000002"},"quantization":null,"context_length":32768},{"provider_name":"Broken Provider","pricing":{"prompt":"bad","completion":"0.000002"}}]}}

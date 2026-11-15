@@ -1,0 +1,2 @@
+meta-llama/llama-3.3-70b-instruct
+qwen/qwen-2.5-72b-instruct

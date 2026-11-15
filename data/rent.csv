@@ -1,0 +1,4 @@
+chip,usd_per_gpu_hour,kind,source,observed_at
+H100-SXM,2.40,on-demand,https://example.invalid/verify-before-live,2026-10-25T00:00:00Z
+L40S,1.20,on-demand,https://example.invalid/verify-before-live,2026-10-25T00:00:00Z
+H200,3.10,on-demand,https://example.invalid/verify-before-live,2026-10-25T00:00:00Z
